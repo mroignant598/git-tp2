@@ -1,1 +1,4 @@
-.project
+*.class
+.classpath
+src/org/diginamic/ClassB.java
+/target/
